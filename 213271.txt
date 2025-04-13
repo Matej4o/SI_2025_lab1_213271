@@ -1,0 +1,1 @@
+Ime: Matej Filipovski\nIndex: 213271\nDokumentacija:\n-Kreiran repozitorium SI_2025_lab1_213271\n-Implementirani metodi za issues: removeTaskByName, filterByCategory, markCategoryCompleted\n-Povrzani issues i granki i merges\n-sinhronizacija so remote repo i finalen commit

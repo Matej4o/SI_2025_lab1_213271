@@ -1,0 +1,6 @@
+*   ea3689c Merge pull request #10 from Matej4o/5-filter-tasks-by-category
+|\  
+| * 6b3dbbf Implement removeTask, filterByCategory, and  markCategoryCompleted
+|/  
+* b0c491f Add starter code
+* c40c543 Initial Commit
